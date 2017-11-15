@@ -33,3 +33,5 @@ git add .
 git commit -m "fin clase .... bla, bla"
 git push
 ```
+# Conflicto
+# Conflictos
